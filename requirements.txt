@@ -1,0 +1,11 @@
+d2l
+torch
+os
+glob
+scikit-learn
+nltk
+pickle
+numpy
+pandas
+sagemaker
+boto3
